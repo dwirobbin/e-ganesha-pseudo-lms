@@ -1,0 +1,157 @@
+.profile-siswa {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.profile-siswa img {
+    top: 0;
+    left: 0;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.nav__log {
+    list-style: none;
+}
+
+.nav__log ul {
+    margin: auto;
+}
+
+.nav__log li {
+    display: inline-block;
+}
+
+.nav__log li a {
+    transition: all 0.3s ease 0s;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.nav__log li a:hover {
+    color: rgb(223, 158, 17);
+}
+
+header h5 {
+    margin-right: 25px;
+}
+
+section.course-finder {
+    margin-top: 30px;
+}
+
+section.course-finder .col-lg-8 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+section.course-finder .course-search h5 {
+    margin-bottom: 0;
+}
+
+section.course-finder .course-search p {
+    padding: 0;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+section.course-finder .request-course .btn-request {
+    padding: 6px 24px;
+    background: rgb(75, 0, 124);
+    color: white;
+    font-size: 14px;
+}
+
+section.timeline-navigation .col-lg-8 h2 {
+    font-size: 24px;
+}
+
+section.timeline-navigation .col-lg-4 h2 {
+    font-size: 24px;
+}
+
+.waktu {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.waktu h4 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+section.course-overview {
+    position: relative;
+}
+
+.info-tugas {
+    background: rgb(238, 238, 238);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.judul-tugas {
+    display: flex;
+    align-items: center;
+}
+
+.judul-tugas img {
+    background: black;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+
+.teks-tugas {
+    margin-left: 20px;
+}
+
+.teks-tugas h5 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.teks-tugas a p {
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.teks-tugas p {
+    margin: 0;
+    font-size: 14px;
+}
+
+section.course-overview {
+    margin: 30px 0 30px 0;
+    /* padding: 0 0 0 20px; */
+}
+
+section.course-overview .card-overview {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+
+section.course-overview .course-card {
+    background: rgb(238, 238, 238);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+section.course-overview .course-card .card-description h6 {
+    padding-top: 4px;
+    padding-left: 4px;
+}
+
+section.course-overview .course-card .card-image img {
+    position: relative;
+    top: 0;
+    left: 0;
+    max-width: 100%;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+}

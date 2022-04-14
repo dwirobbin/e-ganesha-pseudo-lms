@@ -1,0 +1,9 @@
+.title-text {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.title-text h4 {
+    display: inline-block;
+}

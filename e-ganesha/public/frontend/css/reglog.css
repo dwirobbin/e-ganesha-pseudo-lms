@@ -1,0 +1,157 @@
+body {
+    font-family: "poppins";
+}
+
+.luar-log {
+    background: rgb(67, 13, 129);
+    max-width: 100%;
+    padding: 10px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border-radius: 20px;
+}
+
+.luar-log h2 {
+    text-align: center;
+    color: white;
+}
+
+.luar-log h4 {
+    font-size: 16px;
+}
+
+.luar-log .tombol-submit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.luar-log .btn-submit {
+    padding: 7px 32px;
+    background: rgb(81, 100, 211);
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+.luar-log form {
+    padding: 0px 20px;
+}
+
+.luar-log form p {
+    margin-top: 25px;
+    padding: 0px 20px;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+}
+
+.luar {
+    background: rgb(67, 13, 129);
+    max-width: 100%;
+    padding: 10px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-radius: 20px;
+}
+
+.luar h2 {
+    text-align: center;
+    color: white;
+}
+
+.luar h4 {
+    font-size: 16px;
+}
+
+.luar .tombol-submit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.luar .btn-submit {
+    padding: 7px 32px;
+    background: rgb(81, 100, 211);
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+.luar form {
+    padding: 0px 20px;
+}
+
+.luar form p {
+    margin-top: 25px;
+    padding: 0px 20px;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+}
+
+.username-input {
+    color: white;
+    margin-top: 30px;
+}
+.username-input .placeholder-username {
+    width: 100%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+}
+
+.password-input {
+    margin-top: 20px;
+    color: white;
+}
+.password-input .placeholder-pw {
+    width: 100%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+}
+
+.nama-input {
+    margin-top: 20px;
+    color: white;
+}
+.nama-input .placeholder-nama {
+    width: 100%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+}
+
+.alamat-input {
+    margin-top: 20px;
+    color: white;
+}
+.alamat-input .placeholder-alamat {
+    width: 100%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+}
+
+.hp-input {
+    margin-top: 20px;
+    color: white;
+}
+.hp-input .placeholder-hp {
+    width: 100%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+}
+
+.email-input {
+    color: white;
+    margin-top: 20px;
+}
+.email-input .placeholder-email {
+    width: 100%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+}

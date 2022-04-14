@@ -1,0 +1,45 @@
+section.profile-info {
+    margin-top: 50px;
+}
+
+section.profile-info .edit-foto {
+    display: flex;
+    align-items: center;
+}
+
+section.profile-info .edit-foto img {
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+section.profile-info .text {
+    margin-left: 20px;
+}
+
+section.profile-info .text p {
+    margin: 0;
+}
+
+section.profile-info .informations {
+    margin-top: 30px;
+}
+
+section.profile-info .informations .informasi-siswa {
+    display: flex;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+section.profile-info .informations .informasi-siswa a {
+    text-decoration: none;
+    margin-left: 14px;
+    color: black;
+}
+
+section.profile-info .informations .statistik-siswa a {
+    text-decoration: none;
+    margin-left: 14px;
+    color: black;
+}
